@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DROP DATABASE IF EXISTS `examentraining`;
 CREATE DATABASE `examentraining`;
 USE `examentraining`;
@@ -33,3 +34,6 @@ INSERT INTO `vakken` (`vak`, `docentcode`, `docentnaam`, `lokaal`) VALUES
 INSERT INTO `inschrijvingen` (`id_leerling`, `vak`) VALUES
 (153994, 'Wiskunde'),
 (153994, 'Natuurkunde');
+=======
+DROP DATABASE IF EXISTS `examentraining`;
+>>>>>>> 94f218e07614a3c814592ab04f95a9b438b01e63
