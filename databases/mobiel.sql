@@ -24,6 +24,7 @@ CREATE TABLE `aankopen` (
 );
 
 INSERT INTO `vrienden` (`id`, `naam`, `plaats`) VALUES
+(null, 'Emma', 'Zuidhorn'),
 (1, 'Alan', 'Groningen'),
 (2, 'Bob', 'Assen'),
 (3, 'Christel', 'Heerlen'),

@@ -13,7 +13,7 @@
         "**/mysql.cnf": true,
         "**/node_modules": true
     },
-    "workbench.colorTheme": "Default Light+",
+    "workbench.colorTheme": "Default Dark+",
     "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
     "workbench.preferredLightColorTheme": "One Dark Pro Darker",
     "redhat.telemetry.enabled": false,
